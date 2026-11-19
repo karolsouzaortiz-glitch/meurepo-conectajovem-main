@@ -1,4 +1,4 @@
-const URL_IA = 'https://api.cloudflare.com/client/v4/accounts/5c18784dc47589a5b85628d2f0b8c268/ai/v1/chat/completions';
+const URL_IA = "https://api.cloudflare.com/client/v4/accounts/5c18784dc47589a5b85628d2f0b8c268/ai/v1/chat/completions"
 const MODELO = '@cf/mistralai/mistral-small-3.1-24b-instruct';
 const LIMITE = 2000; // tamanho máximo do texto, em caracteres
 
